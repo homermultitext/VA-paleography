@@ -1,0 +1,289 @@
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/teilite.rng" type="xml"?>
+<?xml-stylesheet type="text/xsl" href="paleography.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Image indexing notebook</title>
+                <author>Stephanie Lindeborg</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished working notebook for Homer Multitext project</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born-digital work.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Ligatures</head>
+                
+                <p>This section includes examples of commonly seen ligatures (combinations of two or
+                    more letters) of the Venetus A.</p>
+                
+                <table>
+                    <row role="label">
+                        <cell>Object to index</cell>
+                        <cell>Notes and comments</cell>
+                        <cell>Image identifier</cell>
+                        <cell>Region of interest on image</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Epsilon-Iota Ligature Ateides</cell>
+                        <cell>VA012RN-0013</cell>
+                        <cell>0.16723940,0.35034404,0.09927453,0.02150229
+                        </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Epsilon-Chi Ligature echon</cell>
+                        <cell>VA012RN-0013</cell>
+                        <cell>0.24112257,0.48638188,0.03932799,0.02250573
+                        </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Pi-Tau Ligature skaptro</cell>
+                        <cell>VA012RN-0013</cell>
+                        <cell>0.27873234,0.51103784,0.08113784,0.01791858
+                        </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Sigma-Sigma Ligature osse</cell>
+                        <cell>VA014RN-0015</cell>
+                        <cell>0.27302874,0.29377593,0.03205601,0.01549101
+                        </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Rho-Iota Ligature puri</cell>
+                        <cell>VA014RN-0015</cell>
+                        <cell>0.33787767,0.29792531,0.03721444,0.01549101</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Epsilon-Sigma Ligature eipes</cell>
+                        <cell>VA014RN-0015</cell>
+                        <cell>0.48526161,0.33554633,0.04200442,0.01742739</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Epsilon-Upsilon Ligature eklues</cell>
+                        <cell>VA021RN-0022</cell>
+                        <cell>0.37988209,0.23457815,0.05526898,0.02047026</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Epsilon-Sigma Ligature esti</cell>
+                        <cell>VA014RN-0015</cell>
+                        <cell>0.30840088,0.35103734,0.02689757,0.01742739</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Epsilon-Sigma Ligature phesi</cell>
+                        <cell>VA014RN-0015</cell>
+                        <cell>0.37656595,0.35463347,0.03758290,0.01936376</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Epsilon-Omicron Ligature ereonto</cell>
+                        <cell>VA018VN-0520</cell>
+                        <cell>0.80213707,0.30899032,0.04900516,0.01825726</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Tau-Omicron Ligature ereonto</cell>
+                        <cell>VA018VN-0520</cell>
+                        <cell>0.80213707,0.30899032,0.04900516,0.01825726</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Epsilon-Tau-Omicron Ligature ocheto</cell>
+                        <cell>VA019VN-0521</cell>
+                        <cell>0.73986735,0.27413555,0.04163596,0.01908714</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Pi-Omicron Ligature Apollon</cell>
+                        <cell>VA019VN-0521</cell>
+                        <cell>0.83456153,0.27717842,0.05121592,0.01604426</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Sigma-Tau-Omicron Ligature kathesto</cell>
+                        <cell>VA023RN-0024</cell>
+                        <cell>0.30140015,0.53471646,0.07111275,0.01715076</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Sigma-Phi Ligature sphoi</cell>
+                        <cell>VA018VN-0520</cell>
+                        <cell>0.53426676,0.39308437,0.04310980,0.01825726</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Epsilon-Nu Ligature etisen</cell>
+                        <cell>VA019RN-0020</cell>
+                        <cell>0.46204864,0.24591978,0.03905674,0.02074689</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Tau-Epsilon Ligature aute</cell>
+                        <cell>VA018VN-0520</cell>
+                        <cell>0.82682388,0.46307054,0.03868828,0.01327801</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Pi-Epsilon elikopes</cell>
+                        <cell>VA019VN-0521</cell>
+                        <cell>0.74318349,0.44398340,0.07958732,0.01908714</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Omicron-Sigma penthos</cell>
+                        <cell>VA019RN-0020</cell>
+                        <cell>0.46720707,0.40027663,0.04679440,0.01632089</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alpha-Chi Achaious</cell>
+                        <cell>VA019RN-0020</cell>
+                        <cell>0.47236551,0.62627939,0.05158438,0.02185339</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Epsilon-Pi depas</cell>
+                        <cell>VA023VN-0525</cell>
+                        <cell>0.70744289,0.35131397,0.04753132,0.01549101</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            
+            <div>
+                <head>Abbreviations</head>
+                <p>This section contains commonly seen scholarly abbreviations in the Venetus A.
+                    Certain marks seem to indicate the absence of particular letters. </p>
+                <table>
+                    <row role="label">
+                        <cell>Object to index</cell>
+                        <cell>Notes and comments</cell>
+                        <cell>Image identifier</cell>
+                        <cell>Region of interest on image</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Kai Abbreviation</cell>
+                        <cell>VA019VN-0521</cell>
+                        <cell>0.79992631,0.55739972,0.01142225,0.01549101</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Eta-Nu Abbreviation ekatombein </cell>
+                        <cell>VA018RN-0019</cell>
+                        <cell>0.45025792,0.34273859,0.06742815,0.01632089</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Nu Abbreviation Apollon </cell>
+                        <cell>VA019VN-0521</cell>
+                        <cell>0.83419307,0.27662517,0.05232130,0.01549101</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Nu Abbreviation depessin </cell>
+                        <cell>VA021RN-0022</cell>
+                        <cell>0.47531319,0.57925311,0.07037583,0.01438451</cell>
+                    </row> <row>
+                        <cell/>
+                        <cell>Nu Abbreviation tanousan </cell>
+                        <cell>VA021VN-0523</cell>
+                        <cell>0.81982314,0.38561549,0.05453206,0.01798064</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Omega-Nu Abbreviation Agamemnon</cell>
+                        <cell>VA018VN-0520</cell>
+                        <cell>0.80950626,0.36569848,0.04789978,0.02157676</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Omega-Nu Abbreviation andron</cell>
+                        <cell>VA01VN-0594</cell>
+                        <cell>0.86182756,0.42378976,0.03426676,0.02047026</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Theta-Rho-Omega-Pi Abbreviation anthropon 1</cell>
+                        <cell>VA018VN-0520</cell>
+                        <cell>0.79661017,0.44398340,0.03831982,0.01576763</cell>
+                    </row> <row>
+                        <cell/>
+                        <cell>Theta-Rho-Omega-Pi Abbreviation anthropon 2</cell>
+                        <cell>VA022VN-0524</cell>
+                        <cell>0.79439941,0.61023513,0.04200442,0.01908714</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Omicron-Sigma Abbreviation cheontos </cell>
+                        <cell>VA019RN-0020</cell>
+                        <cell>0.46094326,0.36182573,0.04679440,0.01936376</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Omicron-Sigma Abbreviation Apollonos </cell>
+                        <cell>VA019RN-0020</cell>
+                        <cell>0.42815033,0.60940526,0.06742815,0.01604426</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                
+                
+            </div>
+        </body>
+    </text>
+</TEI>

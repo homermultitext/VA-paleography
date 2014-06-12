@@ -1,0 +1,256 @@
+
+
+@font-face {
+    font-family: Bentham;
+    src : local("Bentham");
+    src: url(fonts/Bentham.otf);
+/* font-weight, font-style ==> default to normal */
+}<li><a href="http://aristarchus.holycross.edu/icacore">Core monuments</a></li>
+
+html {
+/*    background : #eee;*/
+	font-family: 		"Lucida Grande", "Trebuchet MS", Tahoma, Verdana, Arial, sans-serif;
+	font-size: 		0.9em;
+	background:		#eceadf;
+}
+body {
+    padding:5px;
+    font-family : sans-serif;
+    background : white;
+    line-height : 1.5em;
+}
+
+article {
+    padding: 10px;
+    margin-left: 25px;
+    margin-right: 25;
+    display: block;
+
+    clear : both;
+    padding-left : 0;
+}
+
+h1 {
+    font-size : 200%;
+    font-family : Bentham;
+    padding-bottom: 0.5em;
+}
+
+h2 {
+	font-size: 125%;
+	padding-bottom: 0.5em;
+	padding-top: 0.5em;
+}
+
+h3 {
+    font-weight : bold;
+}
+
+p {
+    display: block;
+    margin-bottom: 1em;
+}
+
+
+ol {
+    margin-left : 0.8em;
+}
+
+li {
+	padding: 5px;
+}
+
+ol > li {
+    list-style-type : decimal;
+}
+
+ul > li:nth-child(even) {
+	background-color: #eee;
+
+}
+
+ul {
+    border : none;
+    margin-left : 1em;
+}
+
+ul > li:before {
+content: '⁍ ';
+}
+
+a {
+    color : rgb(90,122,170);
+}
+
+
+a:hover {
+    color : rgb(125,169,255);
+}
+
+form {
+    border : none;
+    background-color : #eee;
+    padding-bottom : 0.4em;
+    padding-top : 0.4em;
+}
+label {
+    font-size : 80%;
+    padding-left : 0.2em;
+}
+fieldset {
+    border : 1px solid #999999;
+    padding: 0.2em;
+}
+fieldset.submit {
+    border : none;
+}
+
+legend {
+    font-weight : normal;
+    margin-left: 1em;  
+    font-size : 80%;
+
+}
+
+time:before {
+	content: "Last modified ";
+}
+
+
+nav {
+    border : none;
+    margin-left : 0px;
+
+    display: block;
+    clear: both;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin: 0px;
+    /*border-top: 1px solid #dfdbce;
+	border-bottom: 1px solid #dfdbce;*/
+    font-size: 80%;
+
+}
+
+nav >   ul{
+    margin: 0 auto;
+    padding: 0;
+}
+
+nav >  ul > li:before {
+    content : "";
+}
+nav >  ul > li {
+    text-align: left;
+    float: left;
+    list-style: none;
+    padding: 3px 10px 3px 10px;
+    margin: 0;
+    border: 1px solid #CCC;
+}
+
+nav > ul > li:nth-child(even) {
+    background-color : white;
+}
+nav > ul > li:nth-child(even):hover {
+    background-color : #eee;
+}
+nav >  ul > li:hover {
+    background-color : #eee;
+}
+
+
+header {
+	background: url(imgs/banner.png) repeat-x;
+	border-bottom : solid 1px silver;
+}
+
+footer {
+	display: block;
+	padding: 10px;
+	color: #aca89b;
+	clear: both;
+	font-size: 80%;
+}
+
+table {
+    margin : 0.8em;
+    margin-bottom: 1.4em;
+}
+
+th {
+    font-weight : normal;
+    border-bottom : 2px solid  #6678b1;
+    color : #039;
+    padding : 10px 8px;
+}
+
+td > p {
+    margin-left : auto;
+    margin-right : auto;
+    width : 6em;
+}
+
+span.xcode:before  {
+    content : "= ";
+}
+
+span.xcode {
+    font-weight : bold;
+    font-style : normal;
+}
+td {
+    /*color : #669;*/
+    padding : 10px 8px;
+    /*padding : 9px 8px 0px 8px;*/
+    border-bottom: 1px solid #6678b1;
+
+    vertical-align : bottom;
+}
+
+.caption {
+    font-style : italic;
+}
+td.event {
+    color : maroon;
+}
+
+.submittext {
+    border : 2px solid gray;
+    font-weight : bold;
+    padding : 0.2em;
+    margin : 0.2em;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+	font-style: italic;
+}	
+
+
+address {
+	font-size: 80%;
+	padding-top: 3em;
+	width: 100%;
+}
+
+address:before {
+	content: "— ";
+}
+
+time {
+	padding-left: 1em;
+	color: #aca89b;
+}
+
+time:before {
+	content: "Revision of ";
+}
+
+.invisible {
+	display: none;
+}	
+
