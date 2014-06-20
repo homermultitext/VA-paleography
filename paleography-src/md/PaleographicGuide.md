@@ -2,6 +2,8 @@
 
 ## Letter Forms ##
 
+| Letter | Example |  
+|  ------	| ------	|  
 |alpha|!{alpha}[1]|
 |beta|!{beta}[2]|
 |gamma|!{gamma}[3]|
@@ -33,6 +35,9 @@
 
 When writing the text, many letters form ligatures in order to save space. Here are some common ones of the Venetus A.
 
+
+| Letter | Example |  
+|  ------	| ------	|  
 |alpha-chi|!{alpha-chi}[27]|
 |epsilon-epsilon|!{epsilon-epsilon}[28]|
 |epsilon-iota|!{epsilon-iota}[29]|
@@ -62,6 +67,10 @@ When writing the text, many letters form ligatures in order to save space. Here 
 ## Abreviations ##
 
 ### Morphological Endings ###
+
+
+| Letter | Example |  
+|  ------	| ------	|  
 |alpha|!{alpha}[52]|
 |alpha|!{alpha}[53]|
 |alpha-iota|!{alpha-iota}[54]|
@@ -89,6 +98,8 @@ When writing the text, many letters form ligatures in order to save space. Here 
 
 Many words are abbreviated with symbols from which we can distinguish few or no letters.
 
+| Word | Example |  
+|  ------	| ------	|  
 |γάρ|!{γάρ}[73]|
 |δέ|!{δέ}[74]|
 |ἔστι|!{ἔστι}[75]|
@@ -99,6 +110,8 @@ Many words are abbreviated with symbols from which we can distinguish few or no 
 
 Many words that were common in Byzantine liturgical texts are abbreviated. Usually you have the beginning and end of the word, with the middle letters omitted. Unlike the morphological endings, the abbreviation mark does not always indicate the same string of letters from word to word, so they are tagged as abbreviation in the mark up. Here are some of the common words you will find abbreviated in the Venetus A.
 
+| Word | Example |  
+|  ------	| ------	|  
 |ἄνθρωπος|!{ἄνθρωπος}[78]|
 |υἱός|!{υἱός}[79]|
 |γράφει|!{γράφει}[80]|
@@ -116,6 +129,9 @@ Many words that were common in Byzantine liturgical texts are abbreviated. Usual
 
 ### Common Prepositions ###
 
+
+| Word | Example |  
+|  ------	| ------	|  
 |ἀντί|!{ἀντί}[91]|
 |διά τό|!{διά τό}[92]|
 |παρά|!{παρά}[93]|
